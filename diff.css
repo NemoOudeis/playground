@@ -1,6 +1,12 @@
-.cm-negative {
+.diff-remove {
   color: #d44;
 }
-.cm-positive {
+.diff-add {
   color: #292;
+}
+.code-frame {
+  background-clip: padding-box;
+  border-radius: 3px;
+  border: 1px solid #ccc;
+  background-color: #f5f5f5;  
 }
